@@ -1,7 +1,8 @@
 [
 	{
 		"name": "test",
-		"current_version": "1.0",
-		"repository": "alfo/arpm-test-package"
+		"repository": "https://github.com/alfo/arpm-test-package.git",
+		"author": "Alex Forey",
+		"email": "hello@alexforey.com"
 	}
 ]
